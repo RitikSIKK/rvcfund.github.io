@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rockfort Ventures</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background: #575757;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Rockfort Ventures</h1>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#grants">Grants</a>
+        <a href="#faqs">FAQs</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>NITT Alumni have always wanted to make a difference in the lives of fellow NITT’ians. This spirit, that keeps the flame of doing something more, for the alma mater and every life associated with it continues to grow. Traditionally, such virtuous work has been in close groups among friends and acquaintances.</p>
+        <p>The history of NITT has given birth to a great many entrepreneurs. Many more have embarked or will embark on the entrepreneurship journey, to make the world a better place. Many among them seek financial investment, mentorship, and guidance as they navigate the challenging business environments.</p>
+        <p>Rockfort Ventures is a committed attempt to develop a forum and a platform leveraging the global network of Alumni, who have deep expertise in supporting entrepreneurial ecosystems founded and promoted by NITT Alumni across many different industry sectors.</p>
+        <img src="about1.jpg" alt="NITT Alumni Meeting">
+        <img src="about2.jpg" alt="Entrepreneurial Collaboration">
+    </section>
+
+    <section id="grants">
+        <h2>Grants</h2>
+        <p>🌟 Exciting News from Rockfort Ventures Club! 🌟</p>
+        <p>We are delighted to share that the RVC Innovation Challenge 2024 (Student Grants) was a grand success! 🎉✨ This initiative conducted by us provided college students with an incredible platform to showcase their innovative ideas and entrepreneurial potential. 🚀</p>
+        <p>After receiving over 15+ amazing submissions, we carefully evaluated and proudly selected the Top 3 student startups to receive ₹50,000 grants for their groundbreaking ideas:</p>
+        <ul>
+            <li>1️⃣ Kadal 🌊 – A platform connecting startups with rural students through project-based learning and hiring opportunities.</li>
+            <li>2️⃣ ThriftX ♻ – A premium e-commerce marketplace for thrift enthusiasts, championing sustainability in the second-hand apparel industry.</li>
+            <li>3️⃣ Hindcrafts 🎨 – A platform linking rural artisans with urban consumers, offering personalized, handcrafted gifts while empowering artisans.</li>
+        </ul>
+        <p>We are incredibly proud to support these brilliant young innovators 💡 and their impactful ventures. 🌟</p>
+        <img src="grants1.jpg" alt="Grant Winners">
+        <img src="grants2.jpg" alt="Student Innovation">
+    </section>
+
+    <section id="faqs">
+        <h2>FAQs</h2>
+        <h3>For Entrepreneurs</h3>
+        <ul>
+            <li><strong>Eligibility:</strong> Any NITT Alum who has founded or co-founded an entity, and has a minimum of 10% stake in the entity can pitch in for investment.</li>
+            <li><strong>Investment Sectors:</strong> Sector agnostic.</li>
+            <li><strong>Stage of Operations:</strong> Any stage in the startup progression: Ideation stage to Growth and Expansion stage.</li>
+            <li><strong>Fund Request Limits:</strong> No specific limits on fund requests.</li>
+        </ul>
+        <h3>For Investors</h3>
+        <ul>
+            <li><strong>Pre-Pitch:</strong> Submit the details requested in Preliminary Information for Investment form.</li>
+            <li><strong>Pitch:</strong> Make a presentation to the Members twice a month via Google Meet.</li>
+            <li><strong>Post-Pitch:</strong> Entrepreneurs can expect feedback within 30 days.</li>
+        </ul>
+        <p>If you have more questions, submit them <a href="#">here</a>.</p>
+        <img src="faq1.jpg" alt="FAQs Discussion">
+        <img src="faq2.jpg" alt="Entrepreneur Pitch">
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>📞 Contact Numbers: Senthil - 9108030051 | Ritik - 8279085977</p>
+        <p>📧 Email: info.rvcfund@gmail.com</p>
+        <img src="contact1.jpg" alt="Contact Team">
+        <img src="contact2.jpg" alt="Support Team">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Rockfort Ventures. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
